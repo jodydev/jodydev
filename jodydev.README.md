@@ -4,7 +4,8 @@ I am Jody
 a software developer from Italy with a strong interest in
 web and mobile applications.
 
-## My development stack  <img src="file:///Users/jodyossino/Downloads/coding.png" /> 
+## My development stack 👨🏻‍💻
+
 
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -13,7 +14,7 @@ web and mobile applications.
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-## Other tools
+## Other tools 🛠️
 
 <p align="left">
     <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
@@ -22,6 +23,8 @@ web and mobile applications.
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## 📫 How to reach me
+## How to reach me 📫
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/jody-ossino2001/) 👨🏻‍💻
+Connect with me on:  <a href="https://www.linkedin.com/in/jody-ossino2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
