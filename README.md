@@ -1,12 +1,6 @@
-### Hi there 👋🏻
+### Hi there <span style="font-family: 'Roboto', sans-serif;">👋🏻</span>
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
-
-<style>
-    body {
-        font-family: 'Roboto', sans-serif; /* Font di Google Font */
-    }
-</style>
 
 I am Jody
 a software developer from Italy with a strong interest in
