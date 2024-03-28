@@ -1,6 +1,6 @@
-### Hi there <span style="font-family: 'Roboto', sans-serif;">👋🏻</span>
-
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+
+## Hi there <span style="font-family: 'Roboto', sans-serif;">👋🏻</span>
 
 I am Jody
 a software developer from Italy with a strong interest in
@@ -8,7 +8,7 @@ web and mobile applications.
 
 ## My development stack 👨🏻‍💻
 
-
+<div style="font-family: 'Roboto', sans-serif;">
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -39,4 +39,4 @@ web and mobile applications.
 
 Connect with me on:  <a href="https://www.linkedin.com/in/jody-ossino2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
+</div>
