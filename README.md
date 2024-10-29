@@ -37,6 +37,6 @@ web and mobile applications.
 
 ## How to reach me 📫
 
-Connect with me on:  <a style="margin-left: '10px'" href="https://www.linkedin.com/in/jody-ossino2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Connect with me on:  <a style="margin-left: '10px'" href="https://www.linkedin.com/in/jody-ossino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
