@@ -1,12 +1,14 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
 
-## Hi there <span style="font-family: 'Montserrat', sans-serif;;">👋🏻</span>
+<h1 style="font-size: "30px";">Hi there <span style="font-family: 'Montserrat', sans-serif;;">👋🏻</span></h1>
 
 I am Jody
 a software developer from Italy with a strong interest in
 web and mobile applications.
 
-## My development stack 👨🏻‍💻
+<h1 style="font-size: "20px";">My development stack 🚀 </h1>
+
+## Frontend 👨🏻‍💻
 
 <div style="font-family: 'Montserrat', sans-serif;">
 <p align="left">
@@ -18,6 +20,8 @@ web and mobile applications.
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 </p>
+
+## Backend 💻
 
 <p align="left">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -31,7 +35,7 @@ web and mobile applications.
 ## Other tools 🛠️
 
 <p align="left">
-    <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
+    <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" style="width:100px; height:30px;" />
     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
